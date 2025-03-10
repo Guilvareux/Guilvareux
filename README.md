@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+### About Me
+- My Position: Platform Engineer @ Arm
+- My Research: Intent-based Networking & Network Automation
+
+
+---
+### My Stats
+
 <a href="https://github.com/guilvareux">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilvareux&theme=graywhite&hide_border=true&layout=compact">
 </a>
